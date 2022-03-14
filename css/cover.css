@@ -22,7 +22,7 @@ body {
 .px-3{
     height: 90vh;
     margin: 5px 0px 5px 0px;
-    background: url('/images/1.jpg') no-repeat;
+    background: url('/images/1.JPG') no-repeat;
     background-size: cover;
     width: 100%;
     border-radius: 20px;
